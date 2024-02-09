@@ -1,6 +1,5 @@
 # Hey, I'm Sofia!
 <br/>
-<br/>
 👩🏻‍💻 Wannabe Frontend and Backend Developer<br/>
 <br/>
 👩🏻‍🎓 Currently taking a Full Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/)<br/>
@@ -9,7 +8,7 @@
 <br/>
 <br/>
 ### 💻 Languages and Tools
-
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,visualstudio,r,figma&theme=light)](https://skillicons.dev)
 <br/>
 <br/>
