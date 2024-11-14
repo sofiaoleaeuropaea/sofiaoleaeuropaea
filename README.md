@@ -7,7 +7,7 @@
 💭 Taking a jump into my first projects<br/>
 <br/>
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,nextjs,r,git&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,r,git&theme=light&perline=6)](https://skillicons.dev)
 <br/>
 <br/>
 ### Contacts 
