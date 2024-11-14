@@ -2,12 +2,12 @@
 
 👩🏻‍💻 Wannabe Frontend and Backend Developer<br/>
 
-👩🏻‍🎓 Currently taking a Full Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
+👩🏻‍🎓 Full Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
 <br/>
 💭 Taking a jump into my first projects<br/>
 <br/>
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,nextjs,r,git&theme=light&perline=6)](https://skillicons.dev)
 <br/>
 <br/>
 ### Contacts 
