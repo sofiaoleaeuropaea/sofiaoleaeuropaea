@@ -1,10 +1,7 @@
 # Hey, I'm Sofia!
 
-👩🏻‍💻 Wannabe Frontend and Backend Developer<br/>
+👩🏻‍💻 Frontend soul with a backend hobby and a slight obsession with data.<br/>
 
-👩🏻‍🎓 Full Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
-<br/>
-💭 Taking a jump into my first projects<br/>
 <br/>
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,r,git&theme=light&perline=6)](https://skillicons.dev)
