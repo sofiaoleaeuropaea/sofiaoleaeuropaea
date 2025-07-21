@@ -1,6 +1,6 @@
 # Hey, I'm Sofia!
 
-👩🏻‍💻 Frontend soul with a backend hobby and a slight obsession with data.<br/>
+## 👩🏻‍💻 Frontend soul with a backend hobby and a slight obsession with data.<br/>
 
 <br/>
 
