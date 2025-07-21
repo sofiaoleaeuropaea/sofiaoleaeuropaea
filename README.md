@@ -6,7 +6,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,r,git&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,angular,nodejs,express,nestjs,mysql,mongodb,r,git&theme=light&perline=7)](https://skillicons.dev)
 <br/>
 <br/>
 
