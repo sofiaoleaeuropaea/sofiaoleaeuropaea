@@ -3,6 +3,7 @@
 👩🏻‍💻 Frontend soul with a backend hobby and a slight obsession with data.<br/>
 
 <br/>
+
 ### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,php,mysql,mongodb,laravel,r,git&theme=light&perline=6)](https://skillicons.dev)
