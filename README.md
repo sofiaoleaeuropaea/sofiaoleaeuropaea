@@ -1,7 +1,8 @@
 # Hey, I'm Sofia!
 <br/>
-
-#### 👩🏻‍💻 Frontend soul with a backend hobby and a slight obsession with data.<br/>
+✨ Frontend developer with a love for clean UI
+⚡ Backend hobbyist exploring the server side
+📊 Data enthusiast fascinated by how insights shape products and user experiences
 <br/>
 
 ### Languages and Tools
